@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_555180c068c9599b14c3657ca6074bca2950a06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ad05779b3bbdeacd78e162047efed5ed28e80385">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/instant-run_5be1492bbda46527cbb17fd104838bc10237d63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_58128e21e01fc906734d38e3989e6304c1bd3dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_a0e7594f8b3ea05ce1a85264b89cd5bdfdbc698a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ef184cea5cb2376693430e100f1beb8a4ad3c8a">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2bf38123b38af93115b173cedbd6eae7a0281dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_1d4482d36fd64918db5eb3e4af51c2b739dc5041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_2e0d570942d064f81de4566dc1f9e08ed14c0acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/hantao/androidopengit/IconLoadingView/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_ca392a95547008fc51f85a5b81e7ac60728c7c78.jar" />
+    </item>
+
+</items>
