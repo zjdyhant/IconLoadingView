@@ -3,25 +3,35 @@ IconLoadingView
 ![](https://github.com/zjdyhant/IconLoadingView/blob/master/app/src/main/res/raw/iconloadingview.gif?raw=true)
 ###scene
 The page loads the data asynchronously with multiple interfaces.
-###how to use?
->in the layout
+###HOW TO USE?  You can simply use the two methods.
+>in the code
+>>init
 ```java
-<RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:gravity="center">
-
-        <TextView
-            android:id="@+id/txt_3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-
-        <com.mm.hant.iconloadingview.widget.IconLoadingView
+mIconLoadingView1 = new IconLoadingView(this);
+mIconLoadingView1.setForegroundProgressColor(Color.parseColor("#1AE66B"))
+                .setBackgroundProgressColor(Color.parseColor("#4D2BD5")).setIcon(R.drawable.tiger);
+                ```
+>>show LoadingView
+```java
+mIconLoadingView1.attachToView(mTextView1,0,5,0,5);
+```
+>>hide LoadingView
+```java
+mIconLoadingView1.detachFromView();
+```
+>in the layout
+>>init
+```java
+<com.mm.hant.iconloadingview.widget.IconLoadingView
             android:id="@+id/icon_loading_view3"
             android:layout_width="50dp"
             android:layout_height="50dp"
             app:BackgroundProgressColor="@color/color_divider"
             app:ForegroundProgressColor="@android:color/black"
             app:Icon="@drawable/tiger" />
-    </RelativeLayout>
+            ```
+>>using
+```java
+mIconLoadingView3.setVisibility(View.VISIBLE);
+mIconLoadingView3.setVisibility(View.GONE);
 ```
