@@ -5,8 +5,8 @@ IconLoadingView
 The page loads the data asynchronously with multiple interfaces.
 ##HOW TO USE?  
 You can simply use the two methods.
-* in the code
-  * init
+###in the code
+ * init
 ```java
 mIconLoadingView1 = new IconLoadingView(this);
 mIconLoadingView1.setForegroundProgressColor(Color.parseColor("#1AE66B"))
@@ -20,7 +20,7 @@ mIconLoadingView1.attachToView(mTextView1,0,5,0,5);
 ```java
 mIconLoadingView1.detachFromView();
 ```
-* in the layout
+###in the layout
  * init
 ```java
 <com.mm.hant.iconloadingview.widget.IconLoadingView
