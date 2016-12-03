@@ -6,22 +6,22 @@ The page loads the data asynchronously with multiple interfaces.
 ##HOW TO USE?  
 You can simply use the two methods.
 * in the code
-####init
+  * init
 ```java
 mIconLoadingView1 = new IconLoadingView(this);
 mIconLoadingView1.setForegroundProgressColor(Color.parseColor("#1AE66B"))
                 .setBackgroundProgressColor(Color.parseColor("#4D2BD5")).setIcon(R.drawable.tiger);
-                ```
-####show LoadingView
+```
+  * show LoadingView
 ```java
 mIconLoadingView1.attachToView(mTextView1,0,5,0,5);
 ```
-####hide LoadingView
+  * hide LoadingView
 ```java
 mIconLoadingView1.detachFromView();
 ```
 * in the layout
-####init
+  * init
 ```java
 <com.mm.hant.iconloadingview.widget.IconLoadingView
             android:id="@+id/icon_loading_view3"
@@ -30,8 +30,8 @@ mIconLoadingView1.detachFromView();
             app:BackgroundProgressColor="@color/color_divider"
             app:ForegroundProgressColor="@android:color/black"
             app:Icon="@drawable/tiger" />
-            ```
-####using
+```
+  * using
 ```java
 mIconLoadingView3.setVisibility(View.VISIBLE);
 mIconLoadingView3.setVisibility(View.GONE);
