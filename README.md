@@ -3,7 +3,7 @@ IconLoadingView
 ![](https://github.com/zjdyhant/IconLoadingView/blob/master/app/src/main/res/raw/iconloadingview.gif?raw=true)
 ##SCENE
 The page loads the data asynchronously with multiple interfaces.
-##HOW TO USE?  
+##HOW TO USE?
 You can simply use the two methods.
 ###in the code
  * init
