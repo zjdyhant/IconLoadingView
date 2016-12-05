@@ -4,7 +4,6 @@ IconLoadingView
 ##SCENE
 The page loads the data asynchronously with multiple interfaces.
 ##HOW TO USE?
-
 You can simply use the two methods.
 ###in the code
  * init
