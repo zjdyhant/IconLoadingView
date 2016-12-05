@@ -17,6 +17,7 @@ mIconLoadingView1.setForegroundProgressColor(Color.parseColor("#1AE66B"))
 mIconLoadingView1.attachToView(mTextView1,0,5,0,5);
 ```
  * hide LoadingView
+ 
 ```java
 mIconLoadingView1.detachFromView();
 ```
