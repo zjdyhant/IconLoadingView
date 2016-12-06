@@ -37,3 +37,8 @@ mIconLoadingView1.detachFromView();
 mIconLoadingView3.setVisibility(View.VISIBLE);
 mIconLoadingView3.setVisibility(View.GONE);
 ```
+ * using
+```java
+mIconLoadingView3.setVisibility(View.VISIBLE);
+mIconLoadingView3.setVisibility(View.GONE);
+```
