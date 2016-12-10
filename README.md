@@ -32,6 +32,7 @@ mIconLoadingView1.detachFromView();
             app:ForegroundProgressColor="@android:color/black"
             app:Icon="@drawable/tiger" />
 ```
+
  * using
 ```java
 mIconLoadingView3.setVisibility(View.VISIBLE);
