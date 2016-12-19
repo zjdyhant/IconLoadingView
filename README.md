@@ -7,6 +7,7 @@ The page loads the data asynchronously with multiple interfaces.
 You can simply use the two methods.
 ###in the code
  * init
+ 
 ```java
 mIconLoadingView1 = new IconLoadingView(this);
 mIconLoadingView1.setForegroundProgressColor(Color.parseColor("#1AE66B"))
